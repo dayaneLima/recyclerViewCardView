@@ -12,7 +12,6 @@
         android:layout_height="60dp"
         app:cardCornerRadius="3dp"
         app:contentPadding="5dp"
-        android:layout_marginBottom="10dp"
         android:id="@+id/cardViewAluno">
 
         <LinearLayout
